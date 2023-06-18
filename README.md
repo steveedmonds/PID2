@@ -25,7 +25,7 @@ This update consists of the following changes.
  - For original function documentation see:  http://playground.arduino.cc/Code/PIDLibrary
 
  - Updated function list.
-     SetMode
+     SetMode,
      Compute()
      SetOutputLimits
      SetTunings
