@@ -26,13 +26,13 @@ This update consists of the following changes.
 
  - Updated function list.
      SetMode,
-     Compute()
-     SetOutputLimits
-     SetTunings
-     SetControllerDirection
-     SetSampleTime	         Deprecated.
-     GetKp
-     GetKi
-     GetKd
-     GetMode
-     GetDirection
+     Compute(),
+     SetOutputLimits,
+     SetTunings,
+     SetControllerDirection.
+     SetSampleTime	has been deprecated.
+     GetKp,
+     GetKi,
+     GetKd,
+     GetMode,
+     GetDirection.
